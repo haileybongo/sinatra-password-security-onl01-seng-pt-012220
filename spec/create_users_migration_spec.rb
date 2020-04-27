@@ -1,4 +1,4 @@
-require_relative '../db/migrate/20180314210852_create_users.rb'
+require_relative '/Users/haileybongo/Development/code/sinatra-password-security-onl01-seng-pt-012220/db/migrate/20200427224256_create_users.rb'
 
 require_relative 'spec_helper'
 
